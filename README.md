@@ -1,4 +1,6 @@
 ﻿## CWP (CLI Windows Protocol)
+**Suporting Palestine 🇵🇸**
+
 **What is CWP :**
 CWP is a CLI Protocol now only makes predefined things but later it goes have modules and new functions.
 
