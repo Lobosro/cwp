@@ -7,7 +7,7 @@ CWP is a CLI Protocol now only makes predefined things but later it goes have mo
  - [x] Update System
  - [ ]  Modules and a module extension
  - [x]  Easter Eggs
- - [ ] Signated Program
+ - [ ] Signed Program
  
  **Install CWP:**
 Automated install
